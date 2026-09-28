@@ -1,4 +1,4 @@
-# Simple Student Management - By Bharath CSE 3rd Year
+# Simple Student Management - By Abhilash CSE 3rd Year
 students = []
 
 while True:
