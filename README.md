@@ -1,6 +1,6 @@
 # Python Student Management System
 
-A simple Python project built by Bharath - B.Tech CSE 3rd Year.
+A simple Python project built by Abhilash - B.Tech CSE 3rd Year.
 
 ## Features
 - Add Student Details
@@ -14,4 +14,4 @@ A simple Python project built by Bharath - B.Tech CSE 3rd Year.
 This project was completely coded and uploaded using only a mobile phone.
 
 ## Connect with me
-- GitHub: bharath63041
+- GitHub: abhilashkaringula-rgb
